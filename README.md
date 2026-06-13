@@ -39,5 +39,5 @@ When I'm not writing code or analyzing dataset structures, I love playing with h
 
 ### 📫 Let's Connect!
 * 💼 **My Portfolio Website:** 
-* 🤝 **LinkedIn:** 
+* 🤝 **LinkedIn:** https://www.linkedin.com/in/bala-abirami-v-a0039131a/
 * 💬 Ask me about: **python development, Java programming, predictive algorithms, or anything about generative AI toolsets!**
