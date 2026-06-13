@@ -19,8 +19,8 @@ I am a passionate Computer Science engineering student deeply focused on **Artif
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/AIBuilder-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="AI Builder" />
-  <img src="https://img.shields.io/badge/AIAutomation-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/AI Builder-007ACC?style=for-the-badge&logo=.&logoColor=white" alt="AI Builder" />
+  <img src="https://img.shields.io/badge/AI Automation-43853D?style=for-the-badge&logo=.&logoColor=white" alt="AI Automation" />
 </div>
 
 ---
