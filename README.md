@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm BALA ABIRAMI 👋 
 ### 🧠 AI/ML Student & AI Enthusiast | Full-Stack Developer
 
 I am a passionate Computer Science engineering student deeply focused on **Artificial Intelligence, Machine Learning, and intelligent automation**. I love exploring complex backend architectures, optimizing intelligent search algorithms, and building data-driven applications that make a real-world social impact.
@@ -19,10 +19,8 @@ I am a passionate Computer Science engineering student deeply focused on **Artif
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="AI Builder" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="AI Automation" />
 </div>
 
 ---
