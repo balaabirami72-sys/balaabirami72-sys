@@ -1,5 +1,5 @@
 # Hi there, I'm BALA ABIRAMI 👋 
-### 🧠 AI/ML Student & AI Enthusiast | Full-Stack Developer
+### 🧠 AI/ML Student & AI Enthusiast | AIML Engineer
 
 I am a passionate Computer Science engineering student deeply focused on **Artificial Intelligence, Machine Learning, and intelligent automation**. I love exploring complex backend architectures, optimizing intelligent search algorithms, and building data-driven applications that make a real-world social impact.
 
